@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: GaoHongwei
  * @Date: 2020-04-12 18:05:38
- * @LastEditTime: 2020-04-15 11:43:51
+ * @LastEditTime: 2020-04-15 11:48:30
  * @LastEditors: GaoHongwei
  -->
 # gulp-sass
@@ -12,7 +12,7 @@ Gulp+sass 多页面脚手架，适用于多页面网站开发
 
 index.html文件可提取至pages同级目录，或者放在pages目录下都没问题，对应修改gulpfile.json内配置文件即可。
 
-> |-gulp-lesson
+> |-gulp-project
 > 
 >     |-assets               -------   静态资源文件
 > 

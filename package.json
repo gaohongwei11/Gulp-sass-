@@ -119,7 +119,7 @@
     "has-value": "^1.0.0",
     "has-values": "^1.0.0",
     "homedir-polyfill": "^1.0.3",
-    "hosted-git-info": "^2.8.8",
+    "hosted-git-info": "^2.8.9",
     "inflight": "^1.0.6",
     "inherits": "^2.0.4",
     "ini": "^1.3.5",

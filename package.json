@@ -167,7 +167,7 @@
     "mute-stdout": "^1.0.1",
     "nanomatch": "^1.2.13",
     "next-tick": "^1.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "normalize-package-data": "^2.5.0",
     "normalize-path": "^3.0.0",
     "now-and-later": "^2.0.1",
